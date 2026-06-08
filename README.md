@@ -8,7 +8,7 @@
 
 ## Hi, I'm Hamza Saleem 👋
 
-**Certified Agentic AI Engineer & Full Stack Developer**
+**Certified  Senior Agentic AI Engineer & Full Stack Developer**
 
 *I build intelligent, scalable AI systems — from autonomous agents to full
 stack web platforms — that solve real-world problems.*
@@ -17,14 +17,14 @@ stack web platforms — that solve real-world problems.*
 
 🚀 Currently building **OpenClaw** — my flagship agentic AI project
 
-💬 Open to collaborations on AI, agents, and full stack projects
+💬 Open to collaborations on AI, agents, Realtime Conservation Voice Agents Pipelines + AI Avatorand + Rag Pipelines full stack projects
 
 </div>
 
 ---
 <div align="center">
 
-<a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Total%20Stars-6-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars: 6"></a><a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Repositories-5-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories: 5"></a><a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Followers-1-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Followers: 1"></a><a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Commits%20This%20Year-32-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Commits This Year: 32"></a>
+<a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Total%20Stars-6-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars: 6"></a><a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Repositories-5-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories: 15"></a><a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Followers-1-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Followers: 1"></a><a href="https://github.com/hamzasaleem22"><img src="https://img.shields.io/badge/Commits%20This%20Year-32-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="Commits This Year: 32"></a>
 
 </div>
 
