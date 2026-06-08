@@ -20,8 +20,8 @@ I design and ship AI systems that work in production — from real-time voice ag
 
 | Domain | Focus |
 |---|---|
-| **🎙️ Voice AI Agents** | Sub-300ms real-time voice agents with LiveKit, Deepgram, Cartesia TTS, Tavus avatars, noise cancellation, turn detection |
-| **🔍 RAG Pipelines** | Hybrid search (dense + sparse), cross-encoder reranking, FAISS/Qdrant/ChromaDB, LLM generation with citations |
+| **🎙️ Custom Voice AI Agents Pipelines** | Sub-300ms real-time voice agents with LiveKit, Deepgram, Cartesia TTS, Tavus avatars, noise cancellation, turn detection |
+| **🔍 Custom RAG Pipelines** | Hybrid search (dense + sparse), cross-encoder reranking, FAISS/Qdrant/ChromaDB, LLM generation with citations |
 | **⚡ Full-Stack AI** | Next.js / React frontends, FastAPI / Node backends, WebRTC streaming, real-time dispatch & tracking systems |
 | **🤖 Agentic Systems** | Multi-agent orchestration, MCP servers, LangGraph, tool-use, memory management |
 
