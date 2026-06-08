@@ -10,8 +10,6 @@
 
 📍 Rawalpindi, Pakistan
 
-**[⬇️ View My Project Demos — Live Apps & Loom Videos ⬇️](#-featured-projects--demos)**
-
 </div>
 
 ---
@@ -29,7 +27,22 @@ I design and ship AI systems that work in production — from real-time voice ag
 
 ---
 
+## 💼 Hire Me on Upwork
+
+<div align="center">
+
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=1f1f1f)](https://www.upwork.com/freelancers/~01013e514961e29235?mp_source=share)
+
+**Available for freelance AI development — voice agents, RAG systems, full-stack AI products.**
+
+</div>
+
+---
+
 ## 🚀 Featured Projects & Demos
+
+> **⬇️ Scroll down to see all project demos — live sites, Loom videos, and source repos.**  
+> Every project below is built, deployed, and working in production.
 
 ### 🎤 Realtime Voice Agent + Avatar + RAG
 Enterprise-grade voice AI with a photorealistic Tavus avatar, RAG knowledge base, and real-time conversation.
