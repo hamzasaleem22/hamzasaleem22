@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20Saleem&fontSize=44&fontColor=ffffff&fontAlignY=30&desc=Agentic%20AI%20Engineer%20%E2%80%94%20Voice%20AI%20%E2%80%94%20RAG%20%E2%80%94%20Full-Stack&descAlignY=52&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:ff0080,100:00d4ff&height=200&section=header&text=Hamza%20Saleem&fontSize=44&fontColor=ffffff&fontAlignY=30&desc=Agentic%20AI%20Engineer%20%E2%80%94%20Voice%20AI%20%E2%80%94%20RAG%20%E2%80%94%20Full-Stack&descAlignY=52&descSize=18" width="100%">
 </div>
 
 <div align="center">
@@ -8,12 +8,22 @@
 
 **📍 Rawalpindi, Pakistan** · Open for freelance & collaboration
 
-[![Upwork](https://img.shields.io/badge/Hire%20on-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01013e514961e29235?mp_source=share)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzasaleem22)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hamzasaleem22)
-[![Email](https://img.shields.io/badge/Contact-6FDA44?style=flat-square&logo=gmail&logoColor=white)](mailto:saramsaleem16@gmail.com)
+[![Upwork](https://img.shields.io/badge/Hire%20on-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white&labelColor=1a1a2e)](https://www.upwork.com/freelancers/~01013e514961e29235?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/hamzasaleem22)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/hamzasaleem22)
+[![Email](https://img.shields.io/badge/Contact-ff0080?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:saramsaleem16@gmail.com)
 
 </div>
+
+---
+
+### 🧠 What I Do
+
+| Domain | Focus |
+|--------|-------|
+| **🎙️ Real-Time Voice Agents** | Sub-300ms voice AI with LiveKit, Deepgram, Cartesia TTS, Tavus avatars, noise cancellation, turn detection, multilingual |
+| **🤖 AI Agents & Agentic Systems** | Multi-agent orchestration, LangGraph, MCP servers, tool-use, memory management, autonomous workflows |
+| **🔍 Custom RAG Pipelines** | Hybrid search (dense + sparse), cross-encoder reranking, Qdrant/FAISS/ChromaDB, LLM generation with citations |
 
 ---
 
@@ -40,9 +50,19 @@ Enterprise-grade voice AI with a photorealistic Tavus avatar, RAG knowledge base
 
 ---
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
-`LiveKit` `Deepgram` `Cartesia TTS` `OpenAI` `Anthropic Claude` `LangChain` `FAISS` `Qdrant` `BM25` `LangGraph` `MCP` `Python` `FastAPI` `Node.js` `React 19` `Next.js 15` `TypeScript` `Tailwind` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
+**🎙️ Voice AI & Agents**
+`LiveKit` `Deepgram` `Cartesia TTS` `OpenAI` `Anthropic Claude` `Google Gemini` `Silero VAD` `Tavus` `LangGraph` `MCP`
+
+**🔍 RAG & Backend**
+`LangChain` `FAISS` `Qdrant` `ChromaDB` `BM25` `Sentence-Transformers` `Cross-Encoder` `Python` `FastAPI` `Node.js` `Express`
+
+**⚛️ Frontend**
+`React 19` `Next.js 15` `TypeScript` `Tailwind CSS` `TanStack Start` `shadcn/ui` `Docusaurus` `HTML/CSS`
+
+**🗄️ Infrastructure**
+`PostgreSQL` `MySQL` `Redis` `Docker` `GitHub Actions` `Vercel` `Railway` `Linux` `Nginx`
 
 ---
 
@@ -65,8 +85,8 @@ Enterprise-grade voice AI with a photorealistic Tavus avatar, RAG knowledge base
 
 [▶️ Watch Demo Reel](https://www.loom.com/share/6698ddb1982c40828377ed9a8d113dfc) · [🌐 voicePapa.ai](https://voicepapa.ai) · [📖 Robotics Textbook](https://intellistack-app.netlify.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzasaleem22&label=Views&color=7C3AED&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hamzasaleem22&label=Views&color=ff0080&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:ff0080,100:00d4ff&height=100&section=footer" width="100%">
 
 </div>
