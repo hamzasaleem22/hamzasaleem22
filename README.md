@@ -47,7 +47,10 @@ Enterprise-grade voice AI with a photorealistic Tavus avatar, RAG knowledge base
 | **🔍 Semantic Search Chatbot** — FAISS + MMR + cross-encoder RAG over PDFs | `FastAPI · FAISS · TanStack` | [🌐 Live](https://rag-pipeline.lovable.app) · [🔗 Repo](https://github.com/hamzasaleem22/Semantic-Search-Chatbot) |
 | **📖 Thomas' Calculus RAG** — Hybrid search over 1,262-page textbook | `Python · Qdrant · BM25 · FastAPI` | [🔗 Repo](https://github.com/hamzasaleem22/Rag-Thomas_Calculus_book_pages_1200-) |
 | **🛒 H&S Online Store** — Full-stack e-commerce with MySQL + REST API | `Node.js · Express · MySQL` | [🌐 Live](https://e-commerce-store-nine-cyan.vercel.app/) · [🔗 Repo](https://github.com/hamzasaleem22/E-Commerce-Webiste) |
-| **👗 Attire Customer Dashboard** <br> **🦷 Dental Living Chatbot** <br> **🦷 Bridge Dental Chatbot** | `Next.js · Tailwind CSS` <br> `AI Chatbot` <br> `AI Chatbot` | [🌐 Attire Live](https://attire-customer.vercel.app/dashboard) <br> [🌐 Dental Living](https://www.dentaliving.co.uk/) <br> [🌐 Bridge Dental](https://bridgedental.com/) |
+| **👗 Attire Customer Dashboard** | `Next.js · Tailwind CSS` | [🌐 Live](https://attire-customer.vercel.app/dashboard) |
+| **🦷 Dental Living Chatbot** | `AI Chatbot` | [🌐 Live](https://www.dentaliving.co.uk/) |
+| **🦷 Bridge Dental Chatbot** | `AI Chatbot` | [🌐 Live](https://bridgedental.com/) |
+| **👨‍⚕️ Khalid Marjan Website** — Voice agent embedded | `Voice AI · Website Embed` | [🌐 Live](https://khalidmarjan.com/) |
 
 ---
 
