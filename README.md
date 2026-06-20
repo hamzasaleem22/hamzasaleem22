@@ -41,16 +41,16 @@ Enterprise-grade voice AI with a photorealistic Tavus avatar, RAG knowledge base
 
 | Project | Stack | Links |
 |---------|-------|-------|
+| **👗 Attire Customer Dashboard** | `Next.js · Tailwind CSS` | [🌐 Live](https://attire-customer.vercel.app/dashboard) |
+| **🦷 Dental Living Chatbot** | `AI Chatbot` | [🌐 Live](https://www.dentaliving.co.uk/) |
+| **🦷 Bridge Dental Chatbot** | `AI Chatbot` | [🌐 Live](https://bridgedental.com/) |
+| **👨‍⚕️ Khalid Marjan Website** — Voice agent embedded | `Voice AI · Website Embed` | [🌐 Live](https://khalidmarjan.com/) |
 | **📞 voicePapa.ai** — AI receptionist SaaS, live in production (10K+ calls/day) | `React 19 · Twilio · n8n` | [🌐 Live](https://voicepapa.ai) |
 | **🚛 AI Tow Truck Dispatch** — AI voice dispatch → GPS matching → live tracking | `n8n · Twilio · Pusher · Neon` | [🔗 Repo](https://github.com/hamzasaleem22/Tow_Truck) |
 | **📚 Humanoid Robotics Textbook** — Interactive textbook + RAG Q&A over 8 modules | `Docusaurus · FastAPI · Qdrant` | [🌐 Live](https://intellistack-app.netlify.app/) |
 | **🔍 Semantic Search Chatbot** — FAISS + MMR + cross-encoder RAG over PDFs | `FastAPI · FAISS · TanStack` | [🌐 Live](https://rag-pipeline.lovable.app) · [🔗 Repo](https://github.com/hamzasaleem22/Semantic-Search-Chatbot) |
 | **📖 Thomas' Calculus RAG** — Hybrid search over 1,262-page textbook | `Python · Qdrant · BM25 · FastAPI` | [🔗 Repo](https://github.com/hamzasaleem22/Rag-Thomas_Calculus_book_pages_1200-) |
 | **🛒 H&S Online Store** — Full-stack e-commerce with MySQL + REST API | `Node.js · Express · MySQL` | [🌐 Live](https://e-commerce-store-nine-cyan.vercel.app/) · [🔗 Repo](https://github.com/hamzasaleem22/E-Commerce-Webiste) |
-| **👗 Attire Customer Dashboard** | `Next.js · Tailwind CSS` | [🌐 Live](https://attire-customer.vercel.app/dashboard) |
-| **🦷 Dental Living Chatbot** | `AI Chatbot` | [🌐 Live](https://www.dentaliving.co.uk/) |
-| **🦷 Bridge Dental Chatbot** | `AI Chatbot` | [🌐 Live](https://bridgedental.com/) |
-| **👨‍⚕️ Khalid Marjan Website** — Voice agent embedded | `Voice AI · Website Embed` | [🌐 Live](https://khalidmarjan.com/) |
 
 ---
 
