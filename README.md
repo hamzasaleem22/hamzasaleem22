@@ -163,14 +163,14 @@ AI voice agent (n8n + Twilio) answers calls 24/7, collects customer info, dispat
 </td>
 <td width="50%">
 
-### 🔍 Semantic Search Chatbot
+### 🔍 RAG — Microsoft Annual Report
 **Full-Stack RAG over Financial Reports**
 
 RAG chatbot over Microsoft's 2025 Annual Report. Backend: FastAPI + FAISS with MMR retrieval + cross-encoder reranking. Frontend: TanStack React with dark-themed chat UI, markdown rendering, source citations, and query caching.
 
 `FastAPI` `FAISS` `MMR` `Cross-Encoder` `TanStack` `TypeScript`
 
-[🌐 Live](https://rag-pipeline.lovable.app) · [🔗 Repo](https://github.com/hamzasaleem22/Semantic-Search-Chatbot)
+[🌐 Live](https://rag-pipeline.lovable.app) · [🔗 Repo](https://github.com/hamzasaleem22/Rag-Microsoft-Annual-Report)
 
 </td>
 </tr>
