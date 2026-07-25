@@ -22,7 +22,7 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=%F0%9F%8E%99%EF%B8%8F+Building+voice+agents+that+talk%2C+RAG+that+cites%2C+systems+that+scale;%E2%9A%A1+Sub-300ms+Voice+AI+%2B+LiveKit+%2B+Deepgram+%2B+Tavus+Avatars;%F0%9F%94%8D+Production+RAG+with+hybrid+search+%2B+cross-encoder+reranking;%F0%9F%93%A1+Currently%3A+Freelance+AI+Engineer+%E2%80%94+Voice+%C2%B7+RAG+%C2%B7+Full-Stack" alt="Typing SVG" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=1100&lines=%F0%9F%8E%99%EF%B8%8F+Building+voice+agents+that+talk%2C+RAG+that+cites%2C+systems+that+scale;%E2%9A%A1+Sub-300ms+Voice+AI+%2B+LiveKit+%2B+Deepgram+%2B+Tavus+Avatars;%F0%9F%94%8D+Production+RAG+with+hybrid+search+%2B+cross-encoder+reranking;%F0%9F%93%A1+Currently%3A+Freelance+AI+Engineer+%E2%80%94+Voice+%C2%B7+RAG+%C2%B7+Full-Stack" alt="Typing SVG" width="100%"/>
 </a>
 
 </div>
