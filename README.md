@@ -12,12 +12,17 @@
 <a href="https://www.metabytesolutions.agency/">
   <img src="https://img.shields.io/badge/MetaByte%20Solutions-Agency-ff0080?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
+<a href="https://play.google.com/store/apps/details?id=com.metabytesolutions.yogacrunch">
+  <img src="https://img.shields.io/badge/Google%20Play-YogaCrunch-34A853?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=1a1a2e"/>
+</a>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=1100&lines=Voice+agents+that+answer+real+phone+calls;RAG+pipelines+that+cite+their+sources;AI+applications+built+for+production;2%2B+years+building+AI+systems+%C2%B7+Founder+of+MetaByte+Solutions" alt="Typing SVG" width="100%"/>
 </a>
+
+<sub>**Now live on Google Play:** [YogaCrunch](https://play.google.com/store/apps/details?id=com.metabytesolutions.yogacrunch), a MetaByte Solutions product. An AI yoga coach with personal plans, live pose correction and voice guidance. &nbsp;[Watch the demo on LinkedIn](https://www.linkedin.com/posts/hamza-saleem-b611323a7_corporatewellness-ergonomics-digitalhealth-ugcPost-7515826580984709120-Fno3)</sub>
 
 </div>
 
