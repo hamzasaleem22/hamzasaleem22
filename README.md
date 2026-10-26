@@ -42,7 +42,18 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 
 <div align="center">
 
-**🎙️ Voice AI**
+<img src="https://raw.githubusercontent.com/hamzasaleem22/hamzasaleem22/main/assets/stack-marquee.svg" alt="Technologies I work with" width="100%"/>
+
+<sub>Select a group to see its tools.</sub>
+
+</div>
+
+<details>
+<summary><b>🎙️ Voice AI</b> &nbsp;<sub>LiveKit · Deepgram · Cartesia · Tavus · Retell AI · Vapi</sub></summary>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/LiveKit-ffffff?style=flat-square&logo=livekit&logoColor=black"/>
 <img src="https://img.shields.io/badge/Deepgram-11B981?style=flat-square&logo=deepgram&logoColor=white"/>
@@ -52,7 +63,16 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 <img src="https://img.shields.io/badge/Vapi-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzLjEzZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgNTEyIDE2NCI%2BPHBhdGggZD0iTTgzLjA3IDYwLjc2NWMxMC40MjcgNS4zNDYgMjIuMjg4IDIuNjE5IDI5LjgzNi02LjMzN3E3LjIwMS04LjYxMiAxNC4wNDEtMTcuNTE1YTI0LjEgMjQuMSAwIDAgMSAxOS4wMzgtOS40NGEyMy41OCAyMy41OCAwIDAgMSAyMS44NzUgMTQuNzc2bDMzLjkwNCA4NC4yNzNjLjQ0MyAxLjEwNi0uODE0IDIuMTM4LTEuNzc5IDEuNDQ1Yy0xMC4xNTUtNy4yNi00MS40OTItMjkuMjEtNjUuMzAzLTQwLjkwM2MtMTAuMjEzLTUuMDA4LTIxLjcyNC0yLjYwMy0yOC45NjQgNi4xNjVjLTYuMzY4IDcuNzItMTMuMzUyIDE3LjIwMi0xOC40NDMgMjQuMzExYTI0LjgzIDI0LjgzIDAgMCAxLTIwLjE0NCAxMC40NjNhMjQuMjUgMjQuMjUgMCAwIDEtMjIuNDk2LTE1LjIyTC4wOSAxLjY4NUMtLjM3OS41MSAxLjA3MS0uNTM3IDIuMDExLjMxM0MxNC4xNzQgMTEuMzYgNTIuMzYgNDUuMDIzIDgzLjA3IDYwLjc2NU00MDEuMDk0IDQzLjdhNDQuNiA0NC42IDAgMCAxIDM0LjYzNC0xNi4zMDVjMjcuMzczIDAgNDguODczIDIxLjM3NSA0OC44NzMgNTAuMjU1cy0yMS4zMjMgNTAuMTU2LTQ4LjY5NiA1MC4xNTZjLTE0LjI3NiAwLTI2Ljc5NC02LjA1LTM0LjgxLTE1LjgwNHY1MS41MTdoLTE3LjgwMlYyNy4zOTRoMTcuNzk2em0tNjcuNzE4LTE2LjMwNWMyNC45NTkgMCA0MC4yODggMTUuMSA0MC4yODggMzguNjM0djYxLjY4OGgtMTcuNjgydi0xNS4yMWMtNi4yOSA5LjAyNC0xNy44OSAxNS4yOTQtMzAuMDcgMTUuM2MtMjEuMjI4IDAtMzQuNzktMTEuMzc3LTM0Ljc5LTI4LjYzNmMwLTE4LjgzIDE1LjkyLTMxLjU3MiA0NS4wMDgtMzEuNTcyaDE5LjQ1NnYtMy4xNGMwLTEzLjcyOC04LjQ1LTIyLjE2Mi0yMi42LTIyLjE2MmMtMTEuOTg3IDAtMjIuMDEyIDcuODQ0LTIyLjc5NCAxOC44M2gtMTguMDg5Yy45ODYtMTkuNjEzIDE4LjI4Mi0zMy43MzIgNDEuMjczLTMzLjczMm0tOTAuMTUxIDc2LjgzNWwyOS44NzEtNzYuODM1aDE5LjUwOGwtNDAuNTk2IDEwMC4zMjJoLTE4LjUzN0wxOTIuNjY3IDI3LjM5NGgxOC45MjR6TTUxMiAxMjcuNzE2aC0xNy45OVYyNy4zOTRINTEyek0zMzYuNzIgODEuMTI4Yy0xOC4wNzggMC0yNy45MDUgNi4wODItMjcuOTA1IDE3LjY1YzAgOC44MjYgNi42NzYgMTQuOTAyIDE4LjQ3IDE0LjkwMmMxNi4zMTUgMCAyOC42OTItMTMuMTM4IDI4LjY5Mi0yOS42MXYtMi45NDJ6bTk3LjQyMi0zNi4wNjhjLTE4LjU3OSAwLTMzLjA0OCAxMy40NjgtMzMuMDQ4IDMyLjk4NWMwIDE4LjkyNCAxNC40NyAzMi43ODIgMzMuMDQ4IDMyLjc4MmMxOC4xODMgMCAzMi42NTctMTQuNDQyIDMyLjY1Ny0zMi43ODJjMC0xOC45MzMtMTQuNDc0LTMyLjk4NS0zMi42NTctMzIuOTg1TTUxMiAxNy45NDhoLTE3Ljk5VjBINTEyeiIvPjwvc3ZnPg%3D%3D"/>
 <img src="https://img.shields.io/badge/Silero%20VAD-3B82F6?style=flat-square&logo=pytorch&logoColor=white"/>
 
-**🔍 RAG and Retrieval**
+</div>
+
+</details>
+
+<details>
+<summary><b>🔍 RAG and Retrieval</b> &nbsp;<sub>FAISS · Qdrant · ChromaDB · BM25 · Reranking</sub></summary>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/FAISS-0055FF?style=flat-square&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
@@ -60,7 +80,16 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 <img src="https://img.shields.io/badge/BM25-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cross--Encoder%20Reranking-1C3C3C?style=flat-square"/>
 
-**🤖 Agents and LLMs**
+</div>
+
+</details>
+
+<details>
+<summary><b>🤖 Agents and LLMs</b> &nbsp;<sub>OpenAI Agent SDK · Agent Builder · OpenClaw · Claude Code · MCP · LangGraph</sub></summary>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/OpenAI%20Agent%20SDK-412991?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMi4yODIgOS44MjFhNiA2IDAgMCAwLS41MTYtNC45MWE2LjA1IDYuMDUgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE2IDYgMCAwIDAtMy45OTggMi45YTYuMDUgNi4wNSAwIDAgMCAuNzQzIDcuMDk3YTUuOTggNS45OCAwIDAgMCAuNTEgNC45MTFhNi4wNSA2LjA1IDAgMCAwIDYuNTE1IDIuOUE2IDYgMCAwIDAgMTMuMjYgMjRhNi4wNiA2LjA2IDAgMCAwIDUuNzcyLTQuMjA2YTYgNiAwIDAgMCAzLjk5Ny0yLjlhNi4wNiA2LjA2IDAgMCAwLS43NDctNy4wNzNNMTMuMjYgMjIuNDNhNC40OCA0LjQ4IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxbDQuNzc5LTIuNzU4YS44LjggMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNy4wNyAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NE0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1bDQuNzgzIDIuNzU5YS43Ny43NyAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZNMi4zNCA3Ljg5NmE0LjUgNC41IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc3Ljc3IDAgMCAwIC4zODguNjc3bDUuODE1IDMuMzU0bC0yLjAyIDEuMTY4YS4wOC4wOCAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wOC4wOCAwIDAgMSAuMDcxIDBsNC44MyAyLjc5MWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA1di01LjY3OGEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3bTIuMDEtMy4wMjNsLS4xNDEtLjA4NWwtNC43NzQtMi43ODJhLjc4Ljc4IDAgMCAwLS43ODUgMEw5LjQwOSA5LjIzVjYuODk3YS4wNy4wNyAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS44LjggMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNWwyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNWwtMi42MDctMS41WiIvPjwvc3ZnPg%3D%3D"/>
 <img src="https://img.shields.io/badge/Agent%20Builder-412991?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yMi4yODIgOS44MjFhNiA2IDAgMCAwLS41MTYtNC45MWE2LjA1IDYuMDUgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE2IDYgMCAwIDAtMy45OTggMi45YTYuMDUgNi4wNSAwIDAgMCAuNzQzIDcuMDk3YTUuOTggNS45OCAwIDAgMCAuNTEgNC45MTFhNi4wNSA2LjA1IDAgMCAwIDYuNTE1IDIuOUE2IDYgMCAwIDAgMTMuMjYgMjRhNi4wNiA2LjA2IDAgMCAwIDUuNzcyLTQuMjA2YTYgNiAwIDAgMCAzLjk5Ny0yLjlhNi4wNiA2LjA2IDAgMCAwLS43NDctNy4wNzNNMTMuMjYgMjIuNDNhNC40OCA0LjQ4IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxbDQuNzc5LTIuNzU4YS44LjggMCAwIDAgLjM5Mi0uNjgxdi02LjczN2wyLjAyIDEuMTY4YS4wNy4wNyAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NE0zLjYgMTguMzA0YTQuNDcgNC40NyAwIDAgMS0uNTM1LTMuMDE0bC4xNDIuMDg1bDQuNzgzIDIuNzU5YS43Ny43NyAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZNMi4zNCA3Ljg5NmE0LjUgNC41IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc3Ljc3IDAgMCAwIC4zODguNjc3bDUuODE1IDMuMzU0bC0yLjAyIDEuMTY4YS4wOC4wOCAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01LjgzMy0zLjM4N0wxNS4xMTkgNy4yYS4wOC4wOCAwIDAgMSAuMDcxIDBsNC44MyAyLjc5MWE0LjQ5NCA0LjQ5NCAwIDAgMS0uNjc2IDguMTA1di01LjY3OGEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3bTIuMDEtMy4wMjNsLS4xNDEtLjA4NWwtNC43NzQtMi43ODJhLjc4Ljc4IDAgMCAwLS43ODUgMEw5LjQwOSA5LjIzVjYuODk3YS4wNy4wNyAwIDAgMSAuMDI4LS4wNjFsNC44My0yLjc4N2E0LjUgNC41IDAgMCAxIDYuNjggNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC41IDQuNSAwIDAgMSA3LjM3NS0zLjQ1M2wtLjE0Mi4wOEw4LjcwNCA1LjQ2YS44LjggMCAwIDAtLjM5My42ODF6bTEuMDk3LTIuMzY1bDIuNjAyLTEuNWwyLjYwNyAxLjV2Mi45OTlsLTIuNTk3IDEuNWwtMi42MDctMS41WiIvPjwvc3ZnPg%3D%3D"/>
@@ -73,7 +102,16 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-**⚙️ Backend**
+</div>
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b> &nbsp;<sub>Python · FastAPI · Node.js · n8n · Twilio</sub></summary>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -82,7 +120,16 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMiAwQzUuMzgxLS4wMDguMDA4IDUuMzUyIDAgMTEuOTcxVjEyYzAgNi42NCA1LjM1OSAxMiAxMiAxMmM2LjY0IDAgMTItNS4zNiAxMi0xMmMwLTYuNjQxLTUuMzYtMTItMTItMTJtMCAyMC44MDFjLTQuODQ2LjAxNS04Ljc4Ni0zLjkwNC04LjgwMS04Ljc1VjEyYTguNzc3IDguNzc3IDAgMCAxIDguNzUtOC44MDFIMTJhOC43NzYgOC43NzYgMCAwIDEgOC44MDEgOC43NVYxMmMuMDE1IDQuODQ3LTMuOTA0IDguNzg2LTguNzUgOC44MDF6bTUuNDQtMTEuNzZhMi40OSAyLjQ5IDAgMCAxLTIuNDgxIDIuNDc5YTIuNDkgMi40OSAwIDAgMS0yLjQ3OS0yLjQ3OWEyLjQ5IDIuNDkgMCAwIDEgMi40NzktMi40ODFhMi40OTMgMi40OTMgMCAwIDEgMi40ODEgMi40ODFtMCA1LjkxOWMwIDEuMzYtMS4xMiAyLjQ4LTIuNDgxIDIuNDhhMi40OSAyLjQ5IDAgMCAxLTIuNDc5LTIuNDhhMi40OSAyLjQ5IDAgMCAxIDIuNDc5LTIuNDc5YTIuNDkgMi40OSAwIDAgMSAyLjQ4MSAyLjQ3OW0tNS45MTkgMGMwIDEuMzYtMS4xMiAyLjQ4LTIuNDc5IDIuNDhhMi40OSAyLjQ5IDAgMCAxLTIuNDgxLTIuNDhhMi40OSAyLjQ5IDAgMCAxIDIuNDgxLTIuNDc5YTIuNDkgMi40OSAwIDAgMSAyLjQ3OSAyLjQ3OW0wLTUuOTE5YTIuNDkgMi40OSAwIDAgMS0yLjQ3OSAyLjQ3OWEyLjQ5IDIuNDkgMCAwIDEtMi40ODEtMi40NzlBMi40OTMgMi40OTMgMCAwIDEgOS4wNDIgNi41NmEyLjQ5MyAyLjQ5MyAwIDAgMSAyLjQ3OSAyLjQ4MSIvPjwvc3ZnPg%3D%3D"/>
 
-**⚛️ Frontend**
+</div>
+
+</details>
+
+<details>
+<summary><b>⚛️ Frontend</b> &nbsp;<sub>React · Next.js · TypeScript · Tailwind CSS</sub></summary>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -91,7 +138,16 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
 
-**🗄️ Data and Delivery**
+</div>
+
+</details>
+
+<details>
+<summary><b>🗄️ Data and Delivery</b> &nbsp;<sub>PostgreSQL · Redis · Docker · AWS S3 · Cloudflare R2 · Vercel</sub></summary>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
@@ -104,6 +160,8 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
 
 </div>
+
+</details>
 
 <br/>
 
@@ -205,34 +263,85 @@ RAG chatbot over Microsoft's 2025 Annual Report. FastAPI and FAISS with MMR retr
 **[MetaByte Solutions](https://www.metabytesolutions.agency/)** is the full-stack AI development agency I run.
 *Intelligent Solutions. Limitless Possibilities.*
 
+<sub>Select a service to see work behind it.</sub>
+
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<details>
+<summary>🎙️ <b>Voice agents</b></summary>
 
-🎙️ **Voice agents**<br/>
-💬 **Chatbots and AI assistants**<br/>
-🔍 **RAG pipelines**<br/>
-🧠 **Multi-agent systems**
+Examples: [Tow truck dispatch](https://github.com/hamzasaleem22/Tow_Truck), [receptionist agent](https://github.com/hamzasaleem22/metabyte-solutions-receptionist), [voice agent with avatar](https://github.com/hamzasaleem22/Realtime-VoiceAgent-Avatar-Rag)
 
-</td>
-<td width="33%" valign="top">
+</details>
 
-🧱 **AI SaaS applications**<br/>
-🌐 **Web development**<br/>
-📱 **App development**<br/>
-🔁 **n8n automations**
+<details>
+<summary>💬 <b>Chatbots and AI assistants</b></summary>
 
-</td>
-<td width="33%" valign="top">
+Examples: [Dental Living UK](https://www.dentaliving.co.uk/), [Bridge Dental](https://bridgedental.com/)
 
-🛠️ **Claude Code automations**<br/>
-🐾 **OpenClaw applications**
+</details>
 
-</td>
-</tr>
-</table>
+<details>
+<summary>🔍 <b>RAG pipelines</b></summary>
+
+Examples: [BERTO's catalog RAG](https://github.com/hamzasaleem22/bertos-company-rag-monorepo), [Microsoft annual report RAG](https://github.com/hamzasaleem22/fullstack-microsoft-report-rag)
+
+</details>
+
+<details>
+<summary>🔁 <b>n8n automations</b></summary>
+
+Examples: [Tow truck dispatch](https://github.com/hamzasaleem22/Tow_Truck), [lead generation and outreach](https://github.com/hamzasaleem22/lead-generation-outreach-automation)
+
+</details>
+
+<details>
+<summary>🧠 <b>Multi-agent systems</b></summary>
+
+Available through MetaByte Solutions. [Start a conversation on LinkedIn](https://linkedin.com/in/hamzasaleem22).
+
+</details>
+
+<details>
+<summary>🧱 <b>AI SaaS applications</b></summary>
+
+Available through MetaByte Solutions. [Start a conversation on LinkedIn](https://linkedin.com/in/hamzasaleem22).
+
+</details>
+
+<details>
+<summary>🌐 <b>Web development</b></summary>
+
+Available through MetaByte Solutions. [Start a conversation on LinkedIn](https://linkedin.com/in/hamzasaleem22).
+
+</details>
+
+<details>
+<summary>📱 <b>App development</b></summary>
+
+Available through MetaByte Solutions. [Start a conversation on LinkedIn](https://linkedin.com/in/hamzasaleem22).
+
+</details>
+
+<details>
+<summary>🛠️ <b>Claude Code automations</b></summary>
+
+Available through MetaByte Solutions. [Start a conversation on LinkedIn](https://linkedin.com/in/hamzasaleem22).
+
+</details>
+
+<details>
+<summary>🐾 <b>OpenClaw applications</b></summary>
+
+Available through MetaByte Solutions. [Start a conversation on LinkedIn](https://linkedin.com/in/hamzasaleem22).
+
+</details>
+
+<div align="center">
+
+<a href="https://www.metabytesolutions.agency/"><img src="https://img.shields.io/badge/-Visit%20metabytesolutions.agency-ff0080?style=for-the-badge" alt="Visit MetaByte Solutions"/></a>
+
+</div>
 
 <br/>
 
