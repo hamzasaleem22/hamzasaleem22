@@ -29,12 +29,8 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm an **AI engineer** from Rawalpindi, Pakistan. I build **voice agents, RAG systems and full-stack AI applications** that run in production, mostly for small businesses such as dental clinics and dispatch services. In that work the system has to run every day and the answer has to be right.
+I'm   **AI System Desginer/Architecture & Engineer**  Pakistan. I build **Production Grade AI Agents & Full-stack AI Powered Applications,** & I am  **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.agency/)**
 
-- 🎙️ **Voice agents** that answer real phone calls, built on LiveKit, Deepgram and Cartesia
-- 🔍 **RAG pipelines** with hybrid search and reranking, so answers point back to their source
-- 🧩 **Daily work** with Claude Code, MCP and skills, using spec-driven development
-- 🏢 **Founder of [MetaByte Solutions](https://www.metabytesolutions.agency/)**, where I deliver this work for clients
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -42,13 +38,13 @@ I'm an **AI engineer** from Rawalpindi, Pakistan. I build **voice agents, RAG sy
 ```yaml
 name: Hamza Saleem
 role: AI Engineer
-location: Rawalpindi, Pakistan
+location: Islamabad, Pakistan
 experience: 2+ years
 focus:
   - Real-Time Voice Agents
   - RAG Pipelines
   - Agents and MCP
-  - Full-Stack AI Apps
+  - Full-Stack AI Apps/Applications
 agency: MetaByte Solutions
 ```
 
@@ -184,20 +180,6 @@ RAG chatbot over Microsoft's 2025 Annual Report. FastAPI and FAISS with MMR retr
 <tr>
 <td colspan="2" valign="top">
 
-### 📚 Physical AI and Humanoid Robotics Textbook
-**Interactive textbook with a RAG Q&A chatbot**
-
-Docusaurus textbook with a RAG chatbot for questions across 8 course modules.
-
-`Docusaurus` `FastAPI` `Qdrant` `Python` `TypeScript`
-
-[🌐 Live](https://intellistack-app.netlify.app/) · [🔗 Repo](https://github.com/hamzasaleem22/Hackathine-Phase-1)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🏢 Client Work and More Projects
 
