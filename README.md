@@ -45,7 +45,7 @@ I'm the **Founder & CPO of [MetaByte Solutions](https://www.metabytesolutions.ag
 name: Hamza Saleem
 role: AI System Designer & Architect
 title: Founder & CPO, MetaByte Solutions
-location: Pakistan
+location: Islamabad, Pakistan
 experience: 2+ years
 focus:
   - Production AI Agents
@@ -180,20 +180,6 @@ RAG chatbot over Microsoft's 2025 Annual Report. FastAPI and FAISS with MMR retr
 `FastAPI` `FAISS` `MMR` `TanStack` `TypeScript`
 
 [🌐 Live](https://rag-pipeline.lovable.app) · [🔗 Repo](https://github.com/hamzasaleem22/fullstack-microsoft-report-rag)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 📚 Physical AI and Humanoid Robotics Textbook
-**Interactive textbook with a RAG Q&A chatbot**
-
-Docusaurus textbook with a RAG chatbot for questions across 8 course modules.
-
-`Docusaurus` `FastAPI` `Qdrant` `Python` `TypeScript`
-
-[🌐 Live](https://intellistack-app.netlify.app/) · [🔗 Repo](https://github.com/hamzasaleem22/Hackathine-Phase-1)
 
 </td>
 </tr>
